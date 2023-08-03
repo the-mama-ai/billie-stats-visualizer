@@ -1,5 +1,5 @@
 # billie-stats-visualizer
-Jupyter notebook for retrieving sums of usage values (raw or priced) from billie.
+Dockerized jupyter notebook for retrieving sums of usage values (raw or priced) from billie.
 
 Usage:
 
