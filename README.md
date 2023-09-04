@@ -12,4 +12,4 @@ Usage:
 7. Follow instructions in terminal to open notebook in browser.
 8. Follow instructions in notebook.
 
-Note: for now, you need to have billie running locally (and checkout the branch `api_expansion_generic_value` first) before the notebook can be used. 
+Note: Before PR#50 is merged, you need to have billie running locally with your own DB (and checkout the branch `api_expansion_refactor` first) before the notebook can be used. 
